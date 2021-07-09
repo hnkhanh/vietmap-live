@@ -322,5 +322,167 @@
     "point": 26273,
     "author": "Shelton Larsen"
   }
+],
+"points": [
+  {
+    "id": 3296,
+    "activities": 79,
+    "rewardReceived": 19,
+    "rewardPending": 50,
+    "point": 23255,
+    "userName": "Tamara Allen"
+  },
+  {
+    "id": 27389,
+    "activities": 13,
+    "rewardReceived": 61,
+    "rewardPending": 80,
+    "point": 17323,
+    "userName": "Rosario Guzman"
+  },
+  {
+    "id": 31718,
+    "activities": 64,
+    "rewardReceived": 72,
+    "rewardPending": 58,
+    "point": 11160,
+    "userName": "Eve Douglas"
+  },
+  {
+    "id": 22726,
+    "activities": 9,
+    "rewardReceived": 93,
+    "rewardPending": 27,
+    "point": 4098,
+    "userName": "Jordan Bridges"
+  },
+  {
+    "id": 19813,
+    "activities": 37,
+    "rewardReceived": 24,
+    "rewardPending": 3,
+    "point": 21678,
+    "userName": "Tia Pacheco"
+  },
+  {
+    "id": 11935,
+    "activities": 27,
+    "rewardReceived": 77,
+    "rewardPending": 73,
+    "point": 2933,
+    "userName": "Carmela Walls"
+  },
+  {
+    "id": 5959,
+    "activities": 33,
+    "rewardReceived": 76,
+    "rewardPending": 76,
+    "point": 23631,
+    "userName": "Valenzuela Howe"
+  },
+  {
+    "id": 9130,
+    "activities": 70,
+    "rewardReceived": 80,
+    "rewardPending": 46,
+    "point": 21292,
+    "userName": "Beth Mcclure"
+  },
+  {
+    "id": 28034,
+    "activities": 88,
+    "rewardReceived": 95,
+    "rewardPending": 75,
+    "point": 2325,
+    "userName": "Lindsey Pollard"
+  },
+  {
+    "id": 17334,
+    "activities": 42,
+    "rewardReceived": 22,
+    "rewardPending": 69,
+    "point": 25656,
+    "userName": "Francis Richards"
+  },
+  {
+    "id": 29180,
+    "activities": 17,
+    "rewardReceived": 31,
+    "rewardPending": 64,
+    "point": 18172,
+    "userName": "Sheri Watts"
+  },
+  {
+    "id": 6285,
+    "activities": 48,
+    "rewardReceived": 38,
+    "rewardPending": 70,
+    "point": 6427,
+    "userName": "Eddie Bradford"
+  },
+  {
+    "id": 32562,
+    "activities": 75,
+    "rewardReceived": 81,
+    "rewardPending": 46,
+    "point": 30878,
+    "userName": "Vickie Terry"
+  },
+  {
+    "id": 31501,
+    "activities": 82,
+    "rewardReceived": 94,
+    "rewardPending": 41,
+    "point": 25288,
+    "userName": "Maxine Weeks"
+  },
+  {
+    "id": 13580,
+    "activities": 85,
+    "rewardReceived": 21,
+    "rewardPending": 29,
+    "point": 27180,
+    "userName": "White Gentry"
+  },
+  {
+    "id": 26205,
+    "activities": 92,
+    "rewardReceived": 75,
+    "rewardPending": 17,
+    "point": 29840,
+    "userName": "Ina Fisher"
+  },
+  {
+    "id": 29906,
+    "activities": 66,
+    "rewardReceived": 84,
+    "rewardPending": 37,
+    "point": 26988,
+    "userName": "Gertrude Vega"
+  },
+  {
+    "id": 2636,
+    "activities": 94,
+    "rewardReceived": 30,
+    "rewardPending": 63,
+    "point": 18596,
+    "userName": "Audra Ortiz"
+  },
+  {
+    "id": 10324,
+    "activities": 40,
+    "rewardReceived": 56,
+    "rewardPending": 47,
+    "point": 3454,
+    "userName": "Burks Simon"
+  },
+  {
+    "id": 22996,
+    "activities": 87,
+    "rewardReceived": 75,
+    "rewardPending": 17,
+    "point": 31783,
+    "userName": "Roberson Battle"
+  }
 ]
 }
