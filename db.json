@@ -1,168 +1,4 @@
 {
-"rewards": [
-  {
-    "id": 20442,
-    "name": "Ecosys Zilladyne",
-    "point": 27020,
-    "description": "Ex elit qui ut nostrud."
-  },
-  {
-    "id": 10876,
-    "name": "Sunclipse Moreganic",
-    "point": 15670,
-    "description": "Nostrud occaecat elit non dolore elit eu nulla esse mollit aute ullamco laborum eiusmod."
-  },
-  {
-    "id": 807,
-    "name": "Realmo Amtas",
-    "point": 10767,
-    "description": "Aute deserunt veniam laborum nostrud sunt in aute laborum ea velit laborum."
-  },
-  {
-    "id": 5444,
-    "name": "Pyrami Comcur",
-    "point": 17447,
-    "description": "Magna dolore mollit ea pariatur sunt ullamco occaecat sunt labore ut laborum voluptate."
-  },
-  {
-    "id": 28792,
-    "name": "Emoltra Intergeek",
-    "point": 12474,
-    "description": "Labore nisi quis laborum reprehenderit."
-  },
-  {
-    "id": 5614,
-    "name": "Krog Zerology",
-    "point": 21401,
-    "description": "Minim eu adipisicing excepteur minim do labore quis."
-  },
-  {
-    "id": 18297,
-    "name": "Visualix Harmoney",
-    "point": 26892,
-    "description": "Ullamco dolor ex ullamco amet cupidatat irure consequat eu ex anim enim adipisicing."
-  },
-  {
-    "id": 13725,
-    "name": "Uxmox Phormula",
-    "point": 28088,
-    "description": "Irure magna commodo exercitation cillum."
-  },
-  {
-    "id": 24897,
-    "name": "Obones Quantasis",
-    "point": 19988,
-    "description": "Quis qui commodo ea veniam nostrud cupidatat irure elit esse est esse."
-  },
-  {
-    "id": 29502,
-    "name": "Kaggle Cujo",
-    "point": 22838,
-    "description": "Nisi deserunt labore laboris ea ullamco esse voluptate sit sunt culpa et."
-  }
-],
-"activities":[
-  {
-    "id": 28967,
-    "activity": "Callflex Orbixtar",
-    "isPrivate": false,
-    "isActive": false,
-    "created": "07/19/2021",
-    "endDate": "12/07/2021",
-    "point": 17278,
-    "author": "Powell Turner"
-  },
-  {
-    "id": 17565,
-    "activity": "Concility Nipaz",
-    "isPrivate": true,
-    "isActive": true,
-    "created": "01/06/2021",
-    "endDate": "04/14/2021",
-    "point": 10805,
-    "author": "Todd Reeves"
-  },
-  {
-    "id": 24657,
-    "activity": "Polarium Sybixtex",
-    "isPrivate": false,
-    "isActive": false,
-    "created": "11/08/2021",
-    "endDate": "08/19/2021",
-    "point": 26974,
-    "author": "Maude Webster"
-  },
-  {
-    "id": 25305,
-    "activity": "Photobin Vendblend",
-    "isPrivate": true,
-    "isActive": true,
-    "created": "04/08/2021",
-    "endDate": "09/18/2021",
-    "point": 21196,
-    "author": "Corinne Huber"
-  },
-  {
-    "id": 25409,
-    "activity": "Zorromop Fangold",
-    "isPrivate": false,
-    "isActive": false,
-    "created": "06/05/2021",
-    "endDate": "12/19/2021",
-    "point": 25536,
-    "author": "Evans Callahan"
-  },
-  {
-    "id": 28374,
-    "activity": "Lunchpad Solaren",
-    "isPrivate": true,
-    "isActive": false,
-    "created": "10/18/2021",
-    "endDate": "03/08/2021",
-    "point": 11620,
-    "author": "Bird Kerr"
-  },
-  {
-    "id": 22793,
-    "activity": "Obones Luxuria",
-    "isPrivate": true,
-    "isActive": true,
-    "created": "06/24/2021",
-    "endDate": "07/22/2021",
-    "point": 25059,
-    "author": "Sheri Johnston"
-  },
-  {
-    "id": 15589,
-    "activity": "Comtract Imant",
-    "isPrivate": false,
-    "isActive": true,
-    "created": "04/10/2021",
-    "endDate": "10/19/2021",
-    "point": 28155,
-    "author": "Logan Farley"
-  },
-  {
-    "id": 16569,
-    "activity": "Emoltra Myopium",
-    "isPrivate": true,
-    "isActive": false,
-    "created": "07/07/2021",
-    "endDate": "10/06/2021",
-    "point": 18541,
-    "author": "Warner Woods"
-  },
-  {
-    "id": 31847,
-    "activity": "Snacktion Cyclonica",
-    "isPrivate": false,
-    "isActive": false,
-    "created": "06/07/2021",
-    "endDate": "01/31/2021",
-    "point": 12962,
-    "author": "Clare Todd"
-  }
-],
 "points": [
   {
     "id": 3296,
@@ -170,7 +6,7 @@
     "rewardReceived": 19,
     "rewardPending": 50,
     "point": 23255,
-    "userName": "Tamara Allen"
+    "fullName": "Tamara Allen"
   },
   {
     "id": 27389,
@@ -178,7 +14,7 @@
     "rewardReceived": 61,
     "rewardPending": 80,
     "point": 17323,
-    "userName": "Rosario Guzman"
+    "fullName": "Rosario Guzman"
   },
   {
     "id": 31718,
@@ -186,7 +22,7 @@
     "rewardReceived": 72,
     "rewardPending": 58,
     "point": 11160,
-    "userName": "Eve Douglas"
+    "fullName": "Eve Douglas"
   },
   {
     "id": 22726,
@@ -194,7 +30,7 @@
     "rewardReceived": 93,
     "rewardPending": 27,
     "point": 4098,
-    "userName": "Jordan Bridges"
+    "fullName": "Jordan Bridges"
   },
   {
     "id": 19813,
@@ -202,7 +38,7 @@
     "rewardReceived": 24,
     "rewardPending": 3,
     "point": 21678,
-    "userName": "Tia Pacheco"
+    "fullName": "Tia Pacheco"
   },
   {
     "id": 11935,
@@ -210,7 +46,7 @@
     "rewardReceived": 77,
     "rewardPending": 73,
     "point": 2933,
-    "userName": "Carmela Walls"
+    "fullName": "Carmela Walls"
   },
   {
     "id": 5959,
@@ -218,7 +54,7 @@
     "rewardReceived": 76,
     "rewardPending": 76,
     "point": 23631,
-    "userName": "Valenzuela Howe"
+    "fullName": "Valenzuela Howe"
   },
   {
     "id": 9130,
@@ -226,7 +62,7 @@
     "rewardReceived": 80,
     "rewardPending": 46,
     "point": 21292,
-    "userName": "Beth Mcclure"
+    "fullName": "Beth Mcclure"
   }
 
 
